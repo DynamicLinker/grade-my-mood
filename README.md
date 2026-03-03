@@ -42,7 +42,7 @@ venv\Scripts\activate
 
 1. clone the repo
 ```sh
-git clone https://github.com/DynamicLinker/Emotions_Detector.git
+git clone https://github.com/DynamicLinker/grade-my-mood.git
 ```
 
 #### (NOTE) You may use the program as is or utilize its capabilities in your own Project.
