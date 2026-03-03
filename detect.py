@@ -95,7 +95,7 @@ def main():
             break
         
 
-        results = model(frame, conf=0.5, verbose=False, device='cpu')
+        results = model(frame, conf=0.5, verbose=False, device='cpu', imgsz=640)
         
     
         for result in results:
