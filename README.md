@@ -11,6 +11,11 @@ Positive expressions boost the score while negative ones lower it, providing imm
 Built with a threaded, non-blocking architecture, this project is designed as a modular building block. It handles the heavy computer vision math in the background so you can focus on building empathetic AI tutors, reactive UIs, or smart feedback loops.
 
 
+https://github.com/user-attachments/assets/28a91fcc-a33c-496a-900c-dd4d568962e7
+
+
+
+
 ## Prerequisites
 Requires a basic installation of [Python](https://www.python.org/)
 
