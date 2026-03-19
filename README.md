@@ -17,7 +17,7 @@ Requires a basic installation of [Python](https://www.python.org/)
     python 3.11.4 or later
 
 ### Linux
-    Install via your pacakge manager(apt, rpm, pacman etc.).
+    Install via your package manager(apt, rpm, pacman etc.).
 
 ### Windows/MacOS
 >install from [python](https://www.python.org/)
@@ -63,11 +63,11 @@ pip install -r requirements.txt
 You can import the EmotionGrader class into your own project to add "Emotional Intelligence" with just a few lines of code.
 
 ```python
-from EmotionGrader import EmotionGrader
+from grademymood import EmotionGrader
 import time
 
 # 1. Initialize the engine
-grader = EmotionGrader(weights_path="models/Emotion_Detection.pt", source=0)
+grader = EmotionGrader(weights_path="weights/Emotion_Detection.pt", source=0)
 
 # 2. Start the non-blocking background thread
 grader.start()
@@ -111,6 +111,9 @@ That's it! The system will display your emotions with bounding boxes and update 
 ---
 ## 👤 Author
 **Ajitesh Chaurasia**
-* 🎓 B.Tech Computer Science Student at PSIT
-* 🏆 NCIIPC–AICTE Pentathon '25 (AIR 75)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/ajitesh-chaurasia)
+
+Second-year B.Tech CSE student at PSIT, focused on high-performance AI systems.
+* 🏆 **AIR 75** | NCIIPC–AICTE Pentathon '25
+* 💻 **Global Rank 1142** | TCS CodeVita 2025
+
+**🔗 [Linkedin](https://www.linkedin.com/in/ajitesh-chaurasia/) | 🔗 [GitHub](https://github.com/DynamicLinker/)**
