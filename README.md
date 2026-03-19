@@ -106,3 +106,11 @@ python detect.py
 - Press `r` to reset grade
 
 That's it! The system will display your emotions with bounding boxes and update the grade in real-time.
+
+
+---
+## 👤 Author
+**Ajitesh Chaurasia**
+* 🎓 B.Tech Computer Science Student at PSIT
+* 🏆 NCIIPC–AICTE Pentathon '25 (AIR 75)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/ajitesh-chaurasia)
